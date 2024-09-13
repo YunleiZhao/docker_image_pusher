@@ -1,1 +1,1 @@
-wewe-rss
+cooderl/wewe-rss-sqlite
