@@ -1,1 +1,2 @@
 cooderl/wewe-rss-sqlite
+dreamacro/clash
