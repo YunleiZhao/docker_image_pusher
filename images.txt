@@ -1,2 +1,3 @@
 cooderl/wewe-rss-sqlite
 dreamacro/clash
+centralx/clash-dashboard
